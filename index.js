@@ -25,6 +25,6 @@ function fareTripler(fare) {
 }
 
 
-function fetchSpecifiedDrivers (arrayOfDrivers){
-
+function fetchSpecifiedDrivers (arrayOfDrivers, func){
+    return func(arrayOfDrivers);
 }
