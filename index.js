@@ -1,5 +1,5 @@
 // Code your solution in this file!
-const firstChal = function returnFirstTwoDrivers(drivers){
+function returnFirstTwoDrivers(drivers){
     // for (const driver in drivers) {
     //     if (){}
     // }
