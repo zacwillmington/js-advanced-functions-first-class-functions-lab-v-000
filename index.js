@@ -1,5 +1,5 @@
 // Code your solution in this file!
-function returnFirstTwoDrivers(drivers){
+const returnFirstTwoDrivers = function(drivers){
     // for (const driver in drivers) {
     //     if (){}
     // }
