@@ -10,6 +10,4 @@ const returnLastTwoDrivers = function (drivers) {
 }
 
 
-const selectingDrivers = function(fn){
-    return fn;
-};
+const selectingDrivers = returnFirstTwoDrivers;
