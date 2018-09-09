@@ -19,3 +19,7 @@ function createFareMultiplier (multiple){
 function fareDoubler (fare) {
     return fare * 2;
 }
+
+function fareTripler(fare) {
+    
+}
